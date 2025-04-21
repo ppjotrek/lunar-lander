@@ -1,0 +1,6 @@
+numpy
+gymnasium
+seaborn
+matplotlib
+pygame
+swig
